@@ -1,9 +1,9 @@
 h1 {
-  text-align: center;
+  text-align: left;
   font-weight: bolder;
 }
 h2 {
-  text-align: center;
+  text-align: left;
   font-weight: bold;
   font-style: italic;
 }
@@ -35,4 +35,5 @@ p {
 }
 h3 {
   font-style: italic;
+  font-size: 25px;
 }
